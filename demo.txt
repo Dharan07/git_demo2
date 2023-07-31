@@ -1,1 +1,2 @@
-This file belongs to git_demo2 directory. It does not contain any sensitive information.
+This file belongs to git_demo2 directory. It does not contain any sensitive information. This file belongs to master branch.
+
